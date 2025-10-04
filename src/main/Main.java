@@ -2,7 +2,6 @@ package main;
 import cells.Frame;
 import entity.Human;
 import entity.Pig;
-
 import javax.swing.*;
 import java.awt.*;
 public class Main {
